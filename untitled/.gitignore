@@ -1,6 +1,7 @@
 ### IntelliJ IDEA ###
 out/
-
+.idea
+untitled.iml
 
 ### Eclipse ###
 .apt_generated
